@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm F31GN</h1>
-<h3 align="center">A passionate frontend developer from Philippines.</h3>
+<h3 align="center">A passionate Developer from Philippines.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenn2201&label=Profile%20views&color=0e75b6&style=flat" alt="kenn2201" /> </p>
