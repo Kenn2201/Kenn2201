@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm F31GN</h1>
-<h3 align="center">A passionate Developer from Philippines.</h3>
+<h3 align="center">A dumb Developer from Philippines.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenn2201&label=Profile%20views&color=0e75b6&style=flat" alt="kenn2201" /> </p>
 
 <p align="left"> <a href="https://twitter.com/f31gn" target="blank"><img src="https://img.shields.io/twitter/follow/f31gn?logo=twitter&style=for-the-badge" alt="f31gn" /></a> </p>
 
-- 🔭 I’m currently working on [AboutMe](https://github.com/Kenn2201/AboutME)
+- 🔭 I’m currently working on [---]
 
 - 🌱 I’m currently learning **Flutter, Unreal, Unity, Blender**
 
