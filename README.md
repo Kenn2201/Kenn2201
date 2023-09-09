@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [---]
 
-- 🌱 I’m currently learning **Flutter, Unreal, Unity, Blender**
+- 🌱 I’m currently learning **Flutter, Unreal, Unity, Blender, JavaScript, Node.Js , Firebase**
 
 - 📫 How to reach me **Kenn2201@gmail.com**
 
