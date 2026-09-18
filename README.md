@@ -1,31 +1,215 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm F31GN</h1>
-<h3 align="center">An aspiring Developer from Philippines.</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenn2201&label=Profile%20views&color=0e75b6&style=flat" alt="kenn2201" /> </p>
+# 👋 Hey, I'm Kenn
 
-<p align="left"> <a href="https://twitter.com/f31gn" target="blank"><img src="https://img.shields.io/twitter/follow/f31gn?logo=twitter&style=for-the-badge" alt="f31gn" /></a> </p>
+### Developer • Builder • Game Dev Learner
 
-- 🔭 I’m currently working on [---]
+I build practical web applications, experiment with AI-powered tools,
+and occasionally disappear into game engines wondering why something is not working.
 
-- 🌱 I’m currently learning **Flutter, Unreal, Unity, Blender, JavaScript, Node.Js , Firebase**
+📍 Philippines
 
-- 📫 How to reach me **kenn.nacario12@gmail.com**
+[![GitHub](https://img.shields.io/badge/GitHub-Kenn2201-181717?style=for-the-badge\&logo=github)](https://github.com/Kenn2201)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kenn.nacario12@gmail.com)
 
-- ⚡ Fun fact **I think am Funny.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const kenn = {
+  username: "F31GN",
+  role: "Developer",
+  location: "Philippines",
+
+  interests: [
+    "Full-Stack Development",
+    "AI-powered Applications",
+    "Game Development",
+    "Backend Systems",
+    "UI/UX"
+  ],
+
+  currentlyLearning: [
+    "Godot",
+    "Unity",
+    "Unreal Engine",
+    "Blender"
+  ],
+
+  mindset: "Build it, break it, understand it, improve it."
+};
+```
+
+I'm interested in building applications that are actually useful, not just tutorial projects.
+
+Currently, I'm spending most of my time improving my web-development stack, experimenting with AI integrations, and learning more about game development.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [CourseIT Ai](https://github.com/Kenn2201/CourseIT-AI)
+
+An **action-first AI documentation summarizer** that transforms dense technical documentation into structured learning material.
+
+**Highlights**
+
+* 🤖 AI-powered course generation
+* ⚛️ React + Vite frontend
+* ⚡ Netlify serverless backend
+* 🔐 Appwrite authentication
+* 🧠 Google Gemini integration
+* 🔎 OCR with Tesseract.js
+* 📧 Transactional email system
+* 📊 User credits & usage tracking
+
+**Stack:**
+`React` `Vite` `Node.js` `Appwrite` `Netlify` `Gemini` `Tesseract.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧁 [Bakery Shopping Cart](https://github.com/Kenn2201/BakeryShoppingCartWeb)
+
+A web-based bakery shopping application built while exploring server-side JavaScript architecture.
+
+**Highlights**
+
+* 🛒 Shopping cart workflow
+* 🧩 MVC-style project structure
+* 🌐 Server-side rendering
+* 🔀 Routing & middleware
+* 📦 Node.js backend
+
+**Stack:**
+`Node.js` `EJS` `JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 [AboutME](https://github.com/Kenn2201/AboutME)
+
+One of my first working applications using Firebase services.
+
+**Highlights**
+
+* 🔐 Firebase Authentication
+* 🗄️ Firestore
+* 📦 Firebase Storage
+* 📱 Flutter / Dart
+
+**Stack:**
+`Flutter` `Dart` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Backend Development
+
+I've also worked on backend projects focused on APIs, CRUD operations, application logic, and database-driven systems.
+
+I'm continuing to improve my understanding of:
+
+`REST APIs` • `Authentication` • `Databases` • `Serverless` • `Security`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Web & Application Development
+
 <p align="left">
-<a href="https://twitter.com/f31gn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="f31gn" height="30" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="f31gn" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,vite,html,css,tailwind,php" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### Mobile, Backend & Cloud
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenn2201&show_icons=true&locale=en&layout=compact" alt="kenn2201" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,appwrite,netlify" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenn2201&show_icons=true&locale=en" alt="kenn2201" /></p>
+### Game Development & Creative Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenn2201&" alt="kenn2201" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=godot,unity,unreal,blender" />
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+**AI Engineering**
+LLM integrations, AI APIs, structured generation, rate limiting, and production reliability.
+
+**Full-Stack Development**
+React, Node.js, authentication, APIs, databases, serverless architecture, deployment, and monitoring.
+
+**Game Development**
+Godot, GDScript, Unity, Unreal Engine, Blender, and general game-development fundamentals.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kenn2201&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Kenn2201&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenn2201&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 What I'm Working Toward
+
+I want to keep moving beyond small tutorial projects and build **complete applications** with real authentication, APIs, databases, deployment, observability, AI integrations, and maintainable architecture.
+
+Every project is another excuse to learn something I didn't know yesterday.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Kenn2201-181717?style=for-the-badge\&logo=github)](https://github.com/Kenn2201)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kenn.nacario12@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### `while (!success) { learn(); build(); improve(); }`
+
+⭐ Thanks for visiting my profile.
+
+</div>
