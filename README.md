@@ -1,15 +1,17 @@
 <div align="center">
 
-# 👋 Hey, I'm Kenn
+<img src="https://github.com/Kenn2201.png" width="160" alt="Kenn2201 profile picture" />
 
-### Developer • Builder • Game Dev Learner
+# Hey, I'm Kenn 👋
 
-I build practical web applications, experiment with AI-powered tools,
-and occasionally disappear into game engines wondering why something is not working.
+### `Developer • Builder • Game Dev Learner`
 
-📍 Philippines
+I build web applications, experiment with AI-powered tools,
+and occasionally disappear into game engines trying to figure out why something broke.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kenn2201-181717?style=for-the-badge\&logo=github)](https://github.com/Kenn2201)
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kenn2201-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Kenn2201)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kenn.nacario12@gmail.com)
 
 </div>
@@ -24,12 +26,11 @@ const kenn = {
   role: "Developer",
   location: "Philippines",
 
-  interests: [
+  focus: [
     "Full-Stack Development",
     "AI-powered Applications",
-    "Game Development",
-    "Backend Systems",
-    "UI/UX"
+    "Backend Development",
+    "Game Development"
   ],
 
   currentlyLearning: [
@@ -39,168 +40,165 @@ const kenn = {
     "Blender"
   ],
 
-  mindset: "Build it, break it, understand it, improve it."
+  philosophy: "Build it. Break it. Understand it. Improve it."
 };
 ```
 
-I'm interested in building applications that are actually useful, not just tutorial projects.
+I'm focused on building projects that go beyond simple tutorials — applications with real authentication, APIs, databases, deployment, AI integrations, and useful functionality.
 
-Currently, I'm spending most of my time improving my web-development stack, experimenting with AI integrations, and learning more about game development.
+Right now I'm improving my full-stack development skills while exploring **AI engineering** and **game development**.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🎓 CourseIT Ai
 
-### 🎓 [CourseIT Ai](https://github.com/Kenn2201/CourseIT-AI)
+> An action-first AI documentation summarizer that transforms dense technical documentation into structured learning material.
 
-An **action-first AI documentation summarizer** that transforms dense technical documentation into structured learning material.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square\&logo=github)](https://github.com/Kenn2201/CourseIT-AI)
 
-**Highlights**
+**Features**
 
 * 🤖 AI-powered course generation
 * ⚛️ React + Vite frontend
-* ⚡ Netlify serverless backend
+* ⚡ Serverless backend
 * 🔐 Appwrite authentication
 * 🧠 Google Gemini integration
-* 🔎 OCR with Tesseract.js
+* 🔎 OCR using Tesseract.js
 * 📧 Transactional email system
-* 📊 User credits & usage tracking
+* 📊 Credit and usage tracking
 
-**Stack:**
+**Tech**
+
 `React` `Vite` `Node.js` `Appwrite` `Netlify` `Gemini` `Tesseract.js`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🧁 [Bakery Shopping Cart](https://github.com/Kenn2201/BakeryShoppingCartWeb)
+## 🧁 Bakery Shopping Cart
 
-A web-based bakery shopping application built while exploring server-side JavaScript architecture.
+> A bakery shopping application built while learning server-side JavaScript architecture.
 
-**Highlights**
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square\&logo=github)](https://github.com/Kenn2201/BakeryShoppingCartWeb)
+
+**Features**
 
 * 🛒 Shopping cart workflow
-* 🧩 MVC-style project structure
+* 🧩 MVC-style architecture
 * 🌐 Server-side rendering
-* 🔀 Routing & middleware
+* 🔀 Routing and middleware
 * 📦 Node.js backend
 
-**Stack:**
+**Tech**
+
 `Node.js` `EJS` `JavaScript`
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
+## 🔥 AboutME
 
-### 🔥 [AboutME](https://github.com/Kenn2201/AboutME)
+> One of my earlier applications built while exploring Firebase and Flutter development.
 
-One of my first working applications using Firebase services.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square\&logo=github)](https://github.com/Kenn2201/AboutME)
 
-**Highlights**
+**Features**
 
 * 🔐 Firebase Authentication
 * 🗄️ Firestore
 * 📦 Firebase Storage
-* 📱 Flutter / Dart
+* 📱 Flutter application
 
-**Stack:**
+**Tech**
+
 `Flutter` `Dart` `Firebase`
 
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Backend Development
-
-I've also worked on backend projects focused on APIs, CRUD operations, application logic, and database-driven systems.
-
-I'm continuing to improve my understanding of:
-
-`REST APIs` • `Authentication` • `Databases` • `Serverless` • `Security`
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Web & Application Development
+### 🌐 Web Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,vite,html,css,tailwind,php" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,vite,html,css,tailwind,php" alt="Web development technologies" />
 </p>
 
-### Mobile, Backend & Cloud
+### 📱 Mobile, Backend & Cloud
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,appwrite,netlify" />
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,appwrite,netlify" alt="Mobile backend and cloud technologies" />
 </p>
 
-### Game Development & Creative Tools
+### 🎮 Game Development & Creative
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=godot,unity,unreal,blender" />
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,unity,unreal,blender" alt="Game development technologies" />
 </p>
 
-### Development Tools
+### ⚙️ Development Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development tools" />
 </p>
 
 ---
 
-## 🧠 Currently Exploring
+# 🧠 Currently Exploring
 
-**AI Engineering**
-LLM integrations, AI APIs, structured generation, rate limiting, and production reliability.
+### 🤖 AI Engineering
 
-**Full-Stack Development**
-React, Node.js, authentication, APIs, databases, serverless architecture, deployment, and monitoring.
+LLM integrations, AI APIs, structured generation, rate limiting, OCR, and production reliability.
 
-**Game Development**
+### ⚡ Full-Stack Development
+
+React, Node.js, authentication, REST APIs, databases, serverless architecture, deployment, and monitoring.
+
+### 🎮 Game Development
+
 Godot, GDScript, Unity, Unreal Engine, Blender, and general game-development fundamentals.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kenn2201&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Kenn2201&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Kenn's GitHub statistics" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Kenn2201&theme=github-dark-blue&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Kenn2201&theme=github-dark-blue&hide_border=true" alt="Kenn's GitHub streak" />
 
-</div>
+<br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenn2201&layout=compact&theme=github_dark&hide_border=true" />
+<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kenn2201&layout=compact&theme=github_dark&hide_border=true" alt="Kenn's most used languages" />
 
 </div>
 
 ---
 
-## 🎯 What I'm Working Toward
+# 🎯 What I'm Working Toward
 
-I want to keep moving beyond small tutorial projects and build **complete applications** with real authentication, APIs, databases, deployment, observability, AI integrations, and maintainable architecture.
+I want to keep moving beyond small projects and build **complete applications** with:
 
-Every project is another excuse to learn something I didn't know yesterday.
+* 🔐 Real authentication
+* 🗄️ Databases
+* 🔌 APIs
+* ☁️ Cloud deployment
+* 📊 Monitoring and observability
+* 🤖 AI integrations
+* 🧱 Maintainable architecture
+* 🎮 Interactive experiences
+
+Every project is another opportunity to learn something I didn't know yesterday.
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Kenn2201-181717?style=for-the-badge\&logo=github)](https://github.com/Kenn2201)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kenn.nacario12@gmail.com)
+### Want to build something or talk tech?
+
+[![GitHub](https://img.shields.io/badge/@Kenn2201-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Kenn2201)
+[![Email](https://img.shields.io/badge/kenn.nacario12-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kenn.nacario12@gmail.com)
 
 </div>
 
@@ -210,6 +208,6 @@ Every project is another excuse to learn something I didn't know yesterday.
 
 ### `while (!success) { learn(); build(); improve(); }`
 
-⭐ Thanks for visiting my profile.
+⭐ **Thanks for visiting my profile.**
 
 </div>
