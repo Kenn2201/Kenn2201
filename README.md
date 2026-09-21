@@ -79,7 +79,7 @@ Right now I'm improving my full-stack development skills while exploring **AI en
 
 ## 💳 TapTrack-NFC
 
-> A standalone NFC attendance proof-of-concept that explores tap-based identification as a faster extension or alternative to traditional QR-code attendance.
+> A standalone NFC attendance proof-of-concept that explores tap-based identification as a faster extension or alternative to QR-code attendance.
 
 [![Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Kenn2201/project-6-nfc)
 [![Live](https://img.shields.io/badge/Live-nfc.kenncode.me-00C7B7?style=flat-square\&logo=netlify\&logoColor=white)](https://nfc.kenncode.me)
@@ -87,16 +87,14 @@ Right now I'm improving my full-stack development skills while exploring **AI en
 ### ✨ Purpose
 
 * 📡 NFC card-based attendance
-* ⚡ Faster tap-based check-in workflow
-* 🔄 Alternative / extension to QR attendance
+* ⚡ Fast tap-based check-in workflow
+* 🔄 Alternative or extension to QR-code attendance
 * 🧪 Standalone proof-of-concept environment
 * 🪪 NFC card identification
 * 📊 Attendance event handling
-* 🧱 Designed as a reusable attendance approach
+* 🧱 Designed for integration into attendance and member-management systems
 
-TapTrack-NFC is intentionally kept separate from the production BCBP system.
-
-The goal is to validate the NFC workflow independently first, then use what is learned from the prototype when implementing NFC attendance inside the main system.
+The project is designed to test how NFC can be used in **attendance, membership, event check-in, and access-oriented systems** where fast identification is useful.
 
 ### 🎯 Concept
 
@@ -105,7 +103,7 @@ NFC Card
    ↓
 Tap / Scan
    ↓
-Identify Member
+Identify User
    ↓
 Validate
    ↓
