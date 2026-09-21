@@ -46,71 +46,73 @@ const kenn = {
 
 I'm focused on building projects that go beyond simple tutorials — applications with real authentication, APIs, databases, deployment, AI integrations, and useful functionality.
 
-Right now I'm improving my full-stack development skills while exploring **AI engineering** and **game development**.
+Right now I'm improving my full-stack development skills while exploring **AI engineering**, **NFC-based systems**, and **game development**.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎓 CourseIT Ai
+## 🎓 CourseIT AI
 
-> An action-first AI documentation summarizer that transforms dense technical documentation into structured learning material.
+> An action-first AI documentation summarizer that transforms dense technical documentation into shorter, structured, easier-to-follow learning material.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square\&logo=github)](https://github.com/Kenn2201/CourseIT-AI)
+[![Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Kenn2201/CourseIT-AI)
+[![Live](https://img.shields.io/badge/Live-courseitai.kenncode.me-00C7B7?style=flat-square\&logo=netlify\&logoColor=white)](https://courseitai.kenncode.me)
 
-**Features**
+### ✨ Features
 
 * 🤖 AI-powered course generation
+* 📚 Documentation-to-learning workflow
 * ⚛️ React + Vite frontend
 * ⚡ Serverless backend
 * 🔐 Appwrite authentication
 * 🧠 Google Gemini integration
-* 🔎 OCR using Tesseract.js
+* 🔎 OCR with Tesseract.js
 * 📧 Transactional email system
 * 📊 Credit and usage tracking
 
-**Tech**
+### 🛠️ Tech
 
 `React` `Vite` `Node.js` `Appwrite` `Netlify` `Gemini` `Tesseract.js`
 
 ---
 
-## 🧁 Bakery Shopping Cart
+## 💳 TapTrack-NFC
 
-> A bakery shopping application built while learning server-side JavaScript architecture.
+> A standalone NFC attendance proof-of-concept that explores tap-based identification as a faster extension or alternative to traditional QR-code attendance.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square\&logo=github)](https://github.com/Kenn2201/BakeryShoppingCartWeb)
+[![Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Kenn2201/project-6-nfc)
+[![Live](https://img.shields.io/badge/Live-nfc.kenncode.me-00C7B7?style=flat-square\&logo=netlify\&logoColor=white)](https://nfc.kenncode.me)
 
-**Features**
+### ✨ Purpose
 
-* 🛒 Shopping cart workflow
-* 🧩 MVC-style architecture
-* 🌐 Server-side rendering
-* 🔀 Routing and middleware
-* 📦 Node.js backend
+* 📡 NFC card-based attendance
+* ⚡ Faster tap-based check-in workflow
+* 🔄 Alternative / extension to QR attendance
+* 🧪 Standalone proof-of-concept environment
+* 🪪 NFC card identification
+* 📊 Attendance event handling
+* 🧱 Designed as a reusable attendance approach
 
-**Tech**
+TapTrack-NFC is intentionally kept separate from the production BCBP system.
 
-`Node.js` `EJS` `JavaScript`
+The goal is to validate the NFC workflow independently first, then use what is learned from the prototype when implementing NFC attendance inside the main system.
 
----
+### 🎯 Concept
 
-## 🔥 AboutME
-
-> One of my earlier applications built while exploring Firebase and Flutter development.
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square\&logo=github)](https://github.com/Kenn2201/AboutME)
-
-**Features**
-
-* 🔐 Firebase Authentication
-* 🗄️ Firestore
-* 📦 Firebase Storage
-* 📱 Flutter application
-
-**Tech**
-
-`Flutter` `Dart` `Firebase`
+```text
+NFC Card
+   ↓
+Tap / Scan
+   ↓
+Identify Member
+   ↓
+Validate
+   ↓
+Record Attendance
+   ↓
+Confirmation
+```
 
 ---
 
@@ -122,10 +124,10 @@ Right now I'm improving my full-stack development skills while exploring **AI en
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,vite,html,css,tailwind,php" alt="Web development technologies" />
 </p>
 
-### 📱 Mobile, Backend & Cloud
+### ☁️ Backend & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,appwrite,netlify" alt="Mobile backend and cloud technologies" />
+  <img src="https://skillicons.dev/icons?i=firebase,appwrite,netlify" alt="Backend and cloud technologies" />
 </p>
 
 ### 🎮 Game Development & Creative
@@ -146,11 +148,15 @@ Right now I'm improving my full-stack development skills while exploring **AI en
 
 ### 🤖 AI Engineering
 
-LLM integrations, AI APIs, structured generation, rate limiting, OCR, and production reliability.
+LLM integrations, AI APIs, structured generation, OCR, rate limiting, and production reliability.
 
 ### ⚡ Full-Stack Development
 
 React, Node.js, authentication, REST APIs, databases, serverless architecture, deployment, and monitoring.
+
+### 📡 NFC & Attendance Systems
+
+NFC identification, tap-based attendance, QR/NFC hybrid workflows, validation, and real-world system integration.
 
 ### 🎮 Game Development
 
@@ -176,14 +182,15 @@ Godot, GDScript, Unity, Unreal Engine, Blender, and general game-development fun
 
 # 🎯 What I'm Working Toward
 
-I want to keep moving beyond small projects and build **complete applications** with:
+I want to keep moving beyond small tutorial projects and build **complete, real-world applications** involving:
 
-* 🔐 Real authentication
+* 🔐 Authentication
 * 🗄️ Databases
 * 🔌 APIs
 * ☁️ Cloud deployment
 * 📊 Monitoring and observability
 * 🤖 AI integrations
+* 📡 NFC and physical-digital systems
 * 🧱 Maintainable architecture
 * 🎮 Interactive experiences
 
